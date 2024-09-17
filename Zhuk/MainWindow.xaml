@@ -8,5 +8,11 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         
+        <Border Background="Black"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                Width="100"
+                Height="100"
+                Grid.Column="2"/>
     </Grid>
 </Window>
