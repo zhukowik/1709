@@ -14,5 +14,6 @@
                 Width="100"
                 Height="100"
                 Grid.Column="2"/>
+        <Button Content="кнопка"/>
     </Grid>
 </Window>
